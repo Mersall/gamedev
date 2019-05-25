@@ -1,0 +1,18 @@
+body{
+  background-image: url(../img/action-blur-close-up-735911.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+}
+.content{
+  background-color: #5d5d5d45;
+  color: white;
+  margin-top: 30px;
+
+}
+
+
+.details{
+  margin: auto;
+  margin: 85px 0px;
+}
